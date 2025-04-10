@@ -32,3 +32,5 @@ int main(){
         //y++; para que se comporte como el do o el while
     }
 }
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074

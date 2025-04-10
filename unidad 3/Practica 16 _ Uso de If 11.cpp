@@ -34,3 +34,5 @@ int main()
         cout << numerador << "/" << denominador << "=" << numerador / denominador << "\n";
     }
 }
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074

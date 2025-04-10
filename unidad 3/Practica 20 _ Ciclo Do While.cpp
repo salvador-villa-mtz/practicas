@@ -63,7 +63,9 @@ int main()
             cout << "Edad: " << edad << "\n",
                 system("pause");
         }
-        while (x != 4);
+        }while (x != 4);
+
         return 0;
     }
-}
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074

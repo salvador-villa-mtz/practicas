@@ -26,3 +26,5 @@ int main(){
     cout << "El número menor es: " << menor;
     return 0;
 }
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074

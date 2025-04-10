@@ -29,7 +29,7 @@ int main(){
     cout << y << " Fuera del ciclo\n";
     system("pause");
 
-    for(x=0;y=0;x+y<10;++x){
+    for(x=0;y=0;x+y<10;x++){
         cout << "Dame el valor de y: ";
         cin >> y;
         cout << x << "+" << y << "=" << x+y << "El cilo continúa mientras la suma sea <10\n";
@@ -53,3 +53,5 @@ int main(){
     }
     return 0; 
 }
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074

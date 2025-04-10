@@ -37,3 +37,5 @@ int main(){
     gotoxy(10,10); cout << "El número mayor es: " << mayor;
     return 0;
 }
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
