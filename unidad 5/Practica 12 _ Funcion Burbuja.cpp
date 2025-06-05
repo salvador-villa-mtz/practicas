@@ -1,5 +1,7 @@
 #include <iostream>
-#include <time.h> //random
+#include <time.h> 
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074//random
 using namespace std;
 int cuantos(void);
 int captura(int(&arreglo)[100], int n);

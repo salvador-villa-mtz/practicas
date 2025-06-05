@@ -1,6 +1,8 @@
 #include <iostream>
 #include <time.h> //incluir esta biblioteca para el uso de time()
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 int cuantos(void);
 void captura(int arreglo[], int n);
 void ordena(int arreglo[], int n);

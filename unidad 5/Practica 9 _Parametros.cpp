@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 //Funcion que modifica el arreglo de tipo char
 void modificarArregloChar(char (&arregloChar)[5]);
 //Funcion que modifica el arreglo de tipo int

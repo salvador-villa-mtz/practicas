@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 int factoirial(int n);
 int main(){
     int num;

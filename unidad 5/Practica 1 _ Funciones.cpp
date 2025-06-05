@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 void limpia(void){
     system("cls");
 }

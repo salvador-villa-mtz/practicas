@@ -1,4 +1,6 @@
 #include <iostream>
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 using namespace std; //Funcion que verifica si un numero es par o impar
 int main(){
     int numero;

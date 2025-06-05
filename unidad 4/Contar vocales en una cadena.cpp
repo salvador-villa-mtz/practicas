@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 int main() {
     char texto[100];
     int vocales[5] = {0}, i;

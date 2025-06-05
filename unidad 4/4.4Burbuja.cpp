@@ -2,7 +2,8 @@
 #include <time.h>   // Se usa para trabajar con la hora del sistema, útil para generar números aleatorios
 #include <windows.h> // Se usa para configurar la consola y mostrar acentos correctamente (solo en Windows)
 using namespace std; // Evita tener que escribir std:: antes de cout, cin, etc.
-
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 int main() // Función principal donde inicia el programa
 {
     SetConsoleCP(CP_UTF8); // Configura la consola para aceptar caracteres UTF-8 (acentos, ñ, etc.)

@@ -1,4 +1,6 @@
 #include <iostream>
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 using namespace std; //funcion que realiza la suma de dos numeros
 int sumar(int a, int b);
 int main(){

@@ -1,6 +1,8 @@
 #include <windows.h>
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 
 void obtener(char oracion1[100], char oracion2[100]);
 int comparar(char oracion1[100], char oracion2[100]);

@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 void captura(void);
 int maximo(int i, int j);
 int main(void)

@@ -2,6 +2,8 @@
 referencia y que son usados despues de su captura en otras
 funciones.*/
 #include <iostream>
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 using namespace std;
 void captura(char (&nombre)[10], int &num);
 float calcula(int num);

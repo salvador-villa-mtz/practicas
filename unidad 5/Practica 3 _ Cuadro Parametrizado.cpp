@@ -1,5 +1,7 @@
 #include <iostream>
 #include <windows.h>
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 using namespace std;
 void marco1(void); //encabezado de funciones
 void marco2(char c, int c1, int r1, int c2, int r2);

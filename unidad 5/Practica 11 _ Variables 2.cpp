@@ -8,6 +8,8 @@ que se hagan a ese parametro dentro de la funcion no se veran
 reflejados fuera de ella.*/
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 void cuad1(int x); //copia el valor
 void cuad2(int &x); //copia la direccion
 int main(void){

@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//JUAN SALVADOR VILLA MARTINEZ
+//24041074
 double ctof(double centi); //convierte de °C a °Farenheit
 double ftoc(double fahr); //convierte de Farenheit a °C
 int main(){
